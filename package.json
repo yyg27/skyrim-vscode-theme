@@ -1,0 +1,17 @@
+{
+    "name": "skyrim-vscode-theme",
+    "displayName": "Skyrim Theme",
+    "description": "Hey, you. You're finally themed.",
+    "version": "0.1.0",
+    "publisher": "yyg27",
+    "license": "MIT",
+    "repository": {"type": "git", "url": "https://github.com/yyg27/skyrim-vscode-theme"},
+    "engines": {"vscode": "^1.70.0"},
+    "categories": ["Themes"],
+    "keywords": ["theme", "dark", "nordic", "skyrim", "paletti"],
+    "contributes": {
+        "themes": [
+            {"label": "Skyrim", "uiTheme": "vs-dark", "path": "./themes/skyrim-color-theme.json"}
+        ]
+    }
+}
