@@ -9,3 +9,5 @@ A dark VS Code theme inspired by Bethesda's **The Elder Scrolls V: Skyrim**.
 ## Install
 
 Search for **Skyrim Theme** in the Extensions view, install it, then pick **Skyrim** with *Preferences: Color Theme*.
+
+Or get it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=yyg27.skyrim-vscode-theme).
